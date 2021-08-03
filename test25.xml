@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thanks for trying our documentation. Enjoy from Scaler!</Say>
+<Play>https://bublup-media-production.s3.amazonaws.com/bf35b6d7-f6b6-425c-82ed-19b279ce8926/file_uploads/1804cbe7.mp3</Play>
+</Response>
