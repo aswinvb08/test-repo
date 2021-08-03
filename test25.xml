@@ -1,4 +1,4 @@
 <Response>
 <Say voice="alice">Thanks for trying our documentation. Enjoy from Scaler!</Say>
-<Play>https://test-2364.twil.io/test-audio.mp3</Play>
+<Play>https://api.twilio.com/cowbell.mp3</Play>
 </Response>
